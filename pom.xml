@@ -20,6 +20,9 @@
 
     <modules>
         <module>eureka-service</module>
+        <module>eureka-client</module>
+        <module>service-ribbon</module>
+        <module>service-feign</module>
     </modules>
 
     <properties>
