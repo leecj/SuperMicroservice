@@ -14,6 +14,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RefreshScope
 public class ConfigClientApplication {
+
+    /**
+     * http://localhost:8881/actuator/bus-refresh
+     */
+
     public static void main(String[] args) {
         SpringApplication.run(ConfigClientApplication.class, args);
     }
