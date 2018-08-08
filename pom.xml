@@ -28,6 +28,8 @@
         <module>config-client</module>
         <module>service-hi</module>
         <module>service-miya</module>
+        <module>service-turbine</module>
+        <module>service-lucy</module>
     </modules>
 
     <properties>
